@@ -1,4 +1,4 @@
-REPORT ztest_inline.
+REPORT ztest_inline_local.
 
 INTERFACE lif_test.
   METHODS test1.

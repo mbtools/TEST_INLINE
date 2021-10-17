@@ -1,4 +1,4 @@
-REPORT zfoobar.
+REPORT ztest_inline_2.
 
 TYPES: ty_tab TYPE STANDARD TABLE OF i WITH KEY table_line.
 
