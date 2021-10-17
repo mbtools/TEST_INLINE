@@ -1,0 +1,21 @@
+CLASS zcl_test_inline DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES zif_test_inline .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_test_inline IMPLEMENTATION.
+
+
+  METHOD zif_test_inline~test_1.
+    WRITE 'Test'.
+  ENDMETHOD.
+ENDCLASS.

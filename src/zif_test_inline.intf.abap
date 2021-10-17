@@ -1,0 +1,5 @@
+INTERFACE zif_test_inline PUBLIC.
+
+  METHODS test_1.
+
+ENDINTERFACE.
