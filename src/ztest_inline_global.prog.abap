@@ -1,4 +1,4 @@
-REPORT zfoobar.
+REPORT ztest_inline_global.
 
 START-OF-SELECTION.
 

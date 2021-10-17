@@ -1,4 +1,4 @@
-REPORT zfoobar.
+REPORT ztest_inline.
 
 INTERFACE lif_test.
   METHODS test1.
